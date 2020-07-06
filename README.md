@@ -1,2 +1,2 @@
-# Class-10-Coding-Solutions
+# Class-10
 Class 10th JAVA Coding solutions
